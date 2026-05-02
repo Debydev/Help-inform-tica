@@ -14,7 +14,6 @@ Este projeto foi criado com o objetivo de oferecer uma presença digital profiss
 
 - HTML5  
 - CSS3  
-- (adicione aqui se usou JavaScript)
 
 ---
 
@@ -26,10 +25,6 @@ Este projeto foi criado com o objetivo de oferecer uma presença digital profiss
 - Navegação simples e intuitiva  
 
 ---
-
-## 🌐 Acesse o projeto
-
-👉 (coloque aqui o link do GitHub Pages depois que ativar)
 
 ---
 
